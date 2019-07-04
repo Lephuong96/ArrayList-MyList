@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="182a201c-3615-42ea-a940-54abd1d99df1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../SS1-Tổng quan ứng dụng web php/Calculator/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1-Tổng quan ứng dụng web php/Chức năng đăng nhập/.idea/Chức năng đăng nhập.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1-Tổng quan ứng dụng web php/Chức năng đăng nhập/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1-Tổng quan ứng dụng web php/REadNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1-Tổng quan ứng dụng web php/REadNumber/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS1-Tổng quan ứng dụng web php/Đọc số thành chữ/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS10-manipulate the database/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS10-manipulate the database/Book_manager/class/App.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS10-manipulate the database/Book_manager/class/Book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS10-manipulate the database/Book_manager/database/BookDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS10-manipulate the database/Book_manager/database/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS10-manipulate the database/Book_manager/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS10-manipulate the database/Book_manager/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS10-manipulate the database/Book_manager/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS10-manipulate the database/Book_manager/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS2-Mảng và hàm trong php/BT- Tìm phần tử lớn nhất trong mảng 2 chiều/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS2-Mảng và hàm trong php/BT- Tìm phần tử lớn nhất trong mảng 2 chiều/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS2-Mảng và hàm trong php/Tìm giá trị nhỏ nhất của mảng/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3-Lớp và đối tượng trong PHP/StopWatch/StopWatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3-Lớp và đối tượng trong PHP/StopWatch/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3-Lớp và đối tượng trong PHP/[BT] Xây dựng lớp QuadraticEquation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3-Lớp và đối tượng trong PHP/[BT] Xây dựng lớp QuadraticEquation/QuadraticEquation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3-Lớp và đối tượng trong PHP/[BT] Xây dựng lớp QuadraticEquation/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3-Lớp và đối tượng trong PHP/[TH] Lớp hình chữ nhật/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS3-Lớp và đối tượng trong PHP/[TH] Lớp hình chữ nhật/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/.idea/SS4-Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/Circle_Cylinder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/Circle_Cylinder/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/Circle_Cylinder/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/Circle_Cylinder/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/Class Point and MoveablePoint/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/Class Point and MoveablePoint/MoveablePoint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/Class Point and MoveablePoint/Point.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/Class Point and MoveablePoint/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/Class Point2D and Point3D/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/Class Point2D and Point3D/Point2D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/Class Point2D and Point3D/Point3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/Class Point2D and Point3D/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/[TH]- Hệ các đối tượng hình học/Cricle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/[TH]- Hệ các đối tượng hình học/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/[TH]- Hệ các đối tượng hình học/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/[TH]- Hệ các đối tượng hình học/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/[TH]- Hệ các đối tượng hình học/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS4-Inheritance/[TH]- Hệ các đối tượng hình học/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Interface Resizeable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Interface Resizeable/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Interface Resizeable/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Interface Resizeable/Resizeable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Interface Resizeable/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Interface Resizeable/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Lớp Animal và interface Edible/AbstractAndInterfaceTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Lớp Animal và interface Edible/AbstractClass/Animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Lớp Animal và interface Edible/AbstractClass/Fruits.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Lớp Animal và interface Edible/Animals/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Lớp Animal và interface Edible/Animals/Tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Lớp Animal và interface Edible/Fruits/Apple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Lớp Animal và interface Edible/Fruits/Orange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/Lớp Animal và interface Edible/InterfaceClass/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/interface Colorable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/interface Colorable/Colorable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/interface Colorable/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/interface Colorable/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/interface Colorable/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS5-Advanced Object Oriented Deign/interface Colorable/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-List/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-List/ArrayList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-List/ArrayListTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyListTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triển khai lớp LinkedList đơn giản/LinkList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Triển khai lớp LinkedList đơn giản/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS7-Clean Code &amp; Refactoring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SS7-Clean Code &amp; Refactoring/php-cleancode-refactoring-variable-extraction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/demoaddarray.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyList.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="698">
+              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyListTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MyListTest.php" />
+        <option value="$PROJECT_DIR$/MyList.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="28" />
+    <option name="width" value="895" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyList" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="182a201c-3615-42ea-a940-54abd1d99df1" name="Default Changelist" comment="" />
+      <created>1562259720837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562259720837</updated>
+      <workItem from="1562259721885" duration="269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="269000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MyListTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
